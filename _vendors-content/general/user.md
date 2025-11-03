@@ -1,4 +1,4 @@
----
+NEON RAY Pro ---
 manufacturer:
     - general
 ---
